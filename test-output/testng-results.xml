@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19242" started-at="2019-01-24T20:37:33Z" finished-at="2019-01-24T20:37:53Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19242" started-at="2019-01-24T20:37:33Z" finished-at="2019-01-24T20:37:53Z">
+      <class name="com.weightwatcher.testcases.HomeTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.weightwatcher.testcases.HomeTest@46d56d67]" name="setup" duration-ms="19211" started-at="2019-01-24T20:37:34Z" finished-at="2019-01-24T20:37:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+      </class> <!-- com.weightwatcher.testcases.HomeTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
